@@ -10,4 +10,6 @@ public class SpringBootHotelRestApplication {
 		SpringApplication.run(SpringBootHotelRestApplication.class, args);
 	}
 
+	// CHECK
+
 }
